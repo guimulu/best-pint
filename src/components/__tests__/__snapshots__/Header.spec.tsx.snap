@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component renders correctly 1`] = `
+".a {
+  display: flex;
+}
+.b {
+  align-items: center;
+}
+.c {
+  justify-content: space-between;
+}
+.d {
+  width: 100%;
+}
+.e {
+  background-color: #0e1428;
+}
+.f {
+  padding: 16px 24px;
+}
+.h {
+  position: sticky;
+}
+.i {
+  top: 0;
+}
+.j {
+  z-index: 1;
+}
+.k {
+  flex-direction: row;
+}
+.l {
+  font-size: 40px;
+}
+.m {
+  color: #6c8ead;
+}
+.n {
+  text-align: left;
+}
+.o {
+  font-weight: bold;
+}
+.p {
+  padding: 4px;
+}
+.q {
+  margin-bottom: 0px;
+}
+.u {
+  transition: all 0.3s ease-in-out 0s;
+}
+.v {
+  font-size: 24px;
+}
+.y {
+  font-size: 20px;
+}
+.s:hover {
+  transform: scale(1.2);
+}
+.t:hover {
+  cursor: pointer;
+}
+.x:hover {
+  transform: scale(1.1);
+}
+@media (min-width: 1024px) {
+  .g {
+    padding: 24px 80px;
+  }
+}
+@media (max-width: 1024px) {
+  .r {
+    font-size: 24px;
+  }
+  .w {
+    font-size: 16px;
+  }
+  .z {
+    font-size: 14px;
+  }
+}
+
+
+<div className=a b c d e f g h i j>
+  <div className=l m n o p q r s t u>Best Pint</div>
+  <div className=a k>
+    <div className=v m n o p q w x t u>Random</div>
+    <div className=y m n o p q z>|</div>
+    <div className=v m n o p q w x t u>Favorites </div>
+  </div>
+</div>;
+"
+`;

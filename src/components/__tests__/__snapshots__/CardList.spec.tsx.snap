@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardList component renders correctly 1`] = `
+".a {
+  display: flex;
+}
+.b {
+  flex-direction: row;
+}
+.c {
+  flex-wrap: wrap;
+}
+.d {
+  justify-content: space-evenly;
+}
+.e {
+  margin: auto 8px;
+}
+@media (min-width: 1400px) {
+  .f {
+    margin: auto 8%;
+  }
+}
+
+
+<div className=a b c d e f />;
+"
+`;

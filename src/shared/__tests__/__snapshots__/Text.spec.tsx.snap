@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text component renders correctly 1`] = `
+".a {
+  font-size: 12px;
+}
+.b {
+  color: #6c8ead;
+}
+.c {
+  text-align: left;
+}
+.d {
+  font-weight: normal;
+}
+.e {
+  padding: 4px;
+}
+.f {
+  margin-bottom: 0px;
+}
+
+
+<div className=a b c d e f />;
+"
+`;

@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Abv component green renders correctly 1`] = `
+".a {
+  background-color: #21ab64;
+}
+.b {
+  padding: 8px;
+}
+.c {
+  position: absolute;
+}
+.d {
+  left: 0;
+}
+.e {
+  top: 0;
+}
+.f {
+  border-top-left-radius: 8px;
+}
+.g {
+  border-bottom-right-radius: 8px;
+}
+.h {
+  color: #fff;
+}
+.i::before {
+  content: \\"ABV: 4\\";
+}
+.j::before {
+  font-size: 16px;
+}
+.k::before {
+  font-weight: bold;
+}
+
+
+<div className=a b c d e f g h i j k />;
+"
+`;
+
+exports[`Abv component red renders correctly 1`] = `
+".a {
+  background-color: #d3603a;
+}
+.b {
+  padding: 8px;
+}
+.c {
+  position: absolute;
+}
+.d {
+  left: 0;
+}
+.e {
+  top: 0;
+}
+.f {
+  border-top-left-radius: 8px;
+}
+.g {
+  border-bottom-right-radius: 8px;
+}
+.h {
+  color: #fff;
+}
+.i::before {
+  content: \\"ABV: 7\\";
+}
+.j::before {
+  font-size: 16px;
+}
+.k::before {
+  font-weight: bold;
+}
+
+
+<div className=a b c d e f g h i j k />;
+"
+`;
+
+exports[`Abv component yellow renders correctly 1`] = `
+".a {
+  background-color: #e6cf01;
+}
+.b {
+  padding: 8px;
+}
+.c {
+  position: absolute;
+}
+.d {
+  left: 0;
+}
+.e {
+  top: 0;
+}
+.f {
+  border-top-left-radius: 8px;
+}
+.g {
+  border-bottom-right-radius: 8px;
+}
+.h {
+  color: #fff;
+}
+.i::before {
+  content: \\"ABV: 5\\";
+}
+.j::before {
+  font-size: 16px;
+}
+.k::before {
+  font-weight: bold;
+}
+
+
+<div className=a b c d e f g h i j k />;
+"
+`;

@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image component renders correctly 1`] = `
+".a {
+  max-height: 10px;
+}
+.b {
+  margin-top: 10px;
+}
+.c {
+  margin-bottom: 10px;
+}
+.d {
+  width: auto;
+}
+
+
+<img src=/test.png alt=test className=a b c d />;
+"
+`;

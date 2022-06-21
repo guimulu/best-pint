@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ebc component green renders correctly 1`] = `
+".a {
+  background-color: #21ab64;
+}
+.b {
+  padding: 8px;
+}
+.c {
+  position: absolute;
+}
+.d {
+  left: 0;
+}
+.e {
+  top: 72px;
+}
+.f {
+  border-top-left-radius: 8px;
+}
+.g {
+  border-bottom-right-radius: 8px;
+}
+.h {
+  color: #fff;
+}
+.i::before {
+  content: \\"EBC: 9°\\";
+}
+.j::before {
+  font-size: 16px;
+}
+.k::before {
+  font-weight: bold;
+}
+
+
+<div className=a b c d e f g h i j k />;
+"
+`;
+
+exports[`Ebc component red renders correctly 1`] = `
+".a {
+  background-color: #d3603a;
+}
+.b {
+  padding: 8px;
+}
+.c {
+  position: absolute;
+}
+.d {
+  left: 0;
+}
+.e {
+  top: 72px;
+}
+.f {
+  border-top-left-radius: 8px;
+}
+.g {
+  border-bottom-right-radius: 8px;
+}
+.h {
+  color: #fff;
+}
+.i::before {
+  content: \\"EBC: 50°\\";
+}
+.j::before {
+  font-size: 16px;
+}
+.k::before {
+  font-weight: bold;
+}
+
+
+<div className=a b c d e f g h i j k />;
+"
+`;
+
+exports[`Ebc component yellow renders correctly 1`] = `
+".a {
+  background-color: #e6cf01;
+}
+.b {
+  padding: 8px;
+}
+.c {
+  position: absolute;
+}
+.d {
+  left: 0;
+}
+.e {
+  top: 72px;
+}
+.f {
+  border-top-left-radius: 8px;
+}
+.g {
+  border-bottom-right-radius: 8px;
+}
+.h {
+  color: #fff;
+}
+.i::before {
+  content: \\"EBC: 45°\\";
+}
+.j::before {
+  font-size: 16px;
+}
+.k::before {
+  font-weight: bold;
+}
+
+
+<div className=a b c d e f g h i j k />;
+"
+`;
